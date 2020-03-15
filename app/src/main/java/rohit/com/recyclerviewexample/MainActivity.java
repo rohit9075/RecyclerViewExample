@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void AddItem(){
-
         itemList.add(new Item("Rohit kumar","saran","bihar"));
         itemList.add(new Item("Saurabh","Mumbai","Mahrashtra"));
         itemList.add(new Item("Amit","Patna","Bihar"));
